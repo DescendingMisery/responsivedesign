@@ -1,0 +1,8 @@
+em, rem are units used for scaling stuff, just like px.
+em
+    size is relative to font-size
+    hard to manage
+rem
+    size is relative to root element's font size
+    preferred choice of applicable
+
